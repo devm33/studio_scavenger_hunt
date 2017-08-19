@@ -7,9 +7,7 @@ The beginning of first session should be allotted for icebreakers, expectations,
 ## Project Extensions
 Students that finish early should `//TODO(devrajm) extensions`
 
-## Scavenger Hunt
-
-### Setup
+##  Project Setup
 
 1. Fork this repo so you have your own repo to save your work.
 
@@ -19,10 +17,12 @@ Students that finish early should `//TODO(devrajm) extensions`
 
    ![Picture of adding a collaborator](img/collab.png)
 
-1. Complete all the challenges!
+1. Complete the challenges!
 1. After completing a challenge or section commit and push your changes to your repo to save your work.
 
    Completely forget how to do that? No worries! Take a few minutes to go through this tutorial [try.github.io](https://try.github.io)
+
+## Scavenger Hunt!
 
 ### HTML
 
