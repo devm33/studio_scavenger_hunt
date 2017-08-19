@@ -11,10 +11,18 @@ Students that finish early should `//TODO(devrajm) extensions`
 
 ### Setup
 
-1. [Fork this repo ![fork](img/fork.png)](https://github.com/devm33/studio_scavenger_hunt/edit/master/README.md#fork-destination-box)
-2. Complete all the challenges!
-3. After completing a challenge or section commit and push your changes to your repo.
-   - ([Here's a reminder on how to do that](https://readwrite.com/2013/10/02/github-for-beginners-part-2/))
+1. Fork this repo so you have your own repo to save your work.
+
+   ![Picture of fork button](img/fork.png)
+   
+1. Add your partner as a collaborator to your repo so you can both make commits and work in parallel.
+
+   ![Picture of adding a collaborator](img/collab.png)
+
+1. Complete all the challenges!
+1. After completing a challenge or section commit and push your changes to your repo to save your work.
+
+   Completely forget how to do that? No worries! Take a few minutes to go through this tutorial [try.github.io](https://try.github.io)
 
 ### HTML
 
