@@ -39,22 +39,23 @@ Students that finish early should `//TODO(devrajm) add extensions`
 Create an `index.html` file in your fork of this repo with the following
 properties:
 
-1. The title of the page should be "ScriptEd Scavengers!"
-1. There should be a header on the page that contains the text "Hello Studio!"
-1. There should be a smaller header on the page that contains you and your
-   partner's names.
-1. Add a paragraph element with a paragraph of text from <lipsum.com>.
+- [ ] The title of the page should be "ScriptEd Scavengers!"
+- [ ] There should be a header on the page that contains the text "Hello
+  Studio!"
+- [ ] There should be a smaller header on the page that contains you and your
+  partner's names.
+- [ ] Add a paragraph element with a paragraph of text from <lipsum.com>.
 
 ### CSS
 
 Create an `index.css` file in your repo to add the following styles:
 
-1. Link the css file from the html file.
-1. The headers on the page should be centered, but not the other text on the
-   page.
-1. The headers should be in a [sans serif font] and the rest of the text
-   should be a [serif font].
-1. The page should have a [taupe] background.
+- [ ] Link the css file from the html file.
+- [ ] The headers on the page should be centered, but not the other text on the
+  page.
+- [ ] The headers should be in a [sans serif font] and the rest of the text
+  should be a [serif font].
+- [ ] The page should have a [taupe] background.
 
 
 
