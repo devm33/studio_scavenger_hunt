@@ -36,7 +36,7 @@ Students that finish early should `//TODO(devrajm) add extensions`
 
 ### HTML
 
-Create an index.html file in your fork of this repo with the following
+Create an `index.html` file in your fork of this repo with the following
 properties:
 
 1. The title of the page should be "ScriptEd Scavengers!"
@@ -47,19 +47,19 @@ properties:
 
 ### CSS
 
-Create an index.css file in your repo to add the following styles:
+Create an `index.css` file in your repo to add the following styles:
 
 1. Link the css file from the html file.
 1. The headers on the page should be centered, but not the other text on the
    page.
-1. The headers should be in a [Sans Serif font] and the rest of the text
-   should be a [Serif font] font.
-1. The page should have a [Taupe] background.
+1. The headers should be in a [sans serif font] and the rest of the text
+   should be a [serif font].
+1. The page should have a [taupe] background.
 
 
 
 
 [try.github.io]: https://try.github.io
-[Sans Serif font]: https://en.wikipedia.org/wiki/Sans-serif
-[Serif font]: https://en.wikipedia.org/wiki/Serif
-[Taupe]: https://en.wikipedia.org/wiki/Taupe
+[sans serif font]: https://en.wikipedia.org/wiki/sans-serif
+[serif font]: https://en.wikipedia.org/wiki/serif
+[taupe]: https://en.wikipedia.org/wiki/taupe
