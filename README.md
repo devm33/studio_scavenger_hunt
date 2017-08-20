@@ -32,6 +32,9 @@ Students that finish early should `//TODO(devrajm) add extensions`
    _Forget how to do that? No worries! Take a few minutes to go through this
    tutorial [try.github.io]_
 
+1. If you want to keep track of your progress change the `[ ]` to `[x]` in your
+   fork's `README.md` to render nice checked boxes [x].
+
 ## Scavenger Hunt!
 
 ### HTML
