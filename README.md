@@ -40,36 +40,36 @@ Students that finish early should `//TODO(devrajm) add extensions`
 
 ### HTML
 
-- [ ] Create an `index.html` file in your fork of this repo and add the
+- [ ] `1pt` Create an `index.html` file in your fork of this repo and add the
   following html to it:
-- [ ] The title of the page should be "ScriptEd Scavengers!"
-- [ ] There should be a header on the page that contains the text "Hello
+- [ ] `1pt` The title of the page should be "ScriptEd Scavengers!"
+- [ ] `1pt` There should be a header on the page that contains the text "Hello
   Studio!"
-- [ ] There should be a smaller header on the page that contains you and your
+- [ ] `1pt` There should be a smaller header on the page that contains you and your
   partner's names.
-- [ ] Add a paragraph element with a paragraph of text from <lipsum.com>.
+- [ ] `1pt` Add a paragraph element with a paragraph of text from <lipsum.com>.
 
 ### CSS
 
-- [ ] Create an `index.css` file.
-- [ ] Link the css file from the html file.
-- [ ] The headers on the page should be centered, but not the other text on the
+- [ ] `1pt` Create an `index.css` file.
+- [ ] `1pt` Link the css file from the html file.
+- [ ] `5pt` The headers on the page should be centered, but not the other text on the
   page.
-- [ ] The headers should be in a [sans serif font] and the rest of the text
+- [ ] `1pt` The headers should be in a [sans serif font] and the rest of the text
   should be a [serif font].
-- [ ] The page should have a [taupe] background.
+- [ ] `1pt` The page should have a [taupe] background.
 
 ### JavaScript & jQuery
 
-- [ ] Create an `index.js` file.
-- [ ] Import your js file from your html file.
-- [ ] Import a jQuery library from you html file. _Note your `index.js` file
+- [ ] `1pt` Create an `index.js` file.
+- [ ] `1pt` Import your js file from your html file.
+- [ ] `1pt` Import a jQuery library from you html file. _Note your `index.js` file
   will use jQuery so import order matters._
 
 ### GitHub
 
-- [ ] When finished with all the above challenges, commit and push all of your
-  changes, and send a [pull request] to the repo that you forked.
+- [ ] `1pt` When finished with all the above challenges, commit and push all of your
+  changes, and send a [pull request] to the repo that you originally forked.
 
 
 
