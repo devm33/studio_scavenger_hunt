@@ -40,9 +40,8 @@ Students that finish early should `//TODO(devrajm) add extensions`
 
 ### HTML
 
-Create an `index.html` file in your fork of this repo with the following
-properties:
-
+- [ ] Create an `index.html` file in your fork of this repo and add the
+  following html to it:
 - [ ] The title of the page should be "ScriptEd Scavengers!"
 - [ ] There should be a header on the page that contains the text "Hello
   Studio!"
@@ -52,8 +51,7 @@ properties:
 
 ### CSS
 
-Create an `index.css` file in your repo to add the following styles:
-
+- [ ] Create an `index.css` file.
 - [ ] Link the css file from the html file.
 - [ ] The headers on the page should be centered, but not the other text on the
   page.
@@ -61,6 +59,17 @@ Create an `index.css` file in your repo to add the following styles:
   should be a [serif font].
 - [ ] The page should have a [taupe] background.
 
+### JavaScript & jQuery
+
+- [ ] Create an `index.js` file.
+- [ ] Import your js file from your html file.
+- [ ] Import a jQuery library from you html file. _Note your `index.js` file
+  will use jQuery so import order matters._
+
+### GitHub
+
+- [ ] When finished with all the above challenges, commit and push all of your
+  changes, and send a [pull request] to the repo that you forked.
 
 
 
@@ -68,3 +77,4 @@ Create an `index.css` file in your repo to add the following styles:
 [sans serif font]: https://en.wikipedia.org/wiki/sans-serif
 [serif font]: https://en.wikipedia.org/wiki/serif
 [taupe]: https://en.wikipedia.org/wiki/taupe
+[pull request]: https://help.github.com/articles/creating-a-pull-request/
