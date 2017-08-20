@@ -33,7 +33,8 @@ Students that finish early should `//TODO(devrajm) add extensions`
    tutorial [try.github.io]_
 
 1. If you want to keep track of your progress change the `[ ]` to `[x]` in your
-   fork's `README.md` to render nice checked boxes [x].
+   fork's `README.md` to check off the checkboxes:
+   - [x] Challenge complete!
 
 ## Scavenger Hunt!
 
