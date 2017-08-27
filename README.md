@@ -25,7 +25,7 @@ skills on topics covered in previous years of ScriptEd years.
    repo to save your work.
 
    _Forget how to do that? No worries! Take a few minutes to go through this
-   tutorial [try.github.io]_
+   tutorial [try.github.io] Also check out this [GitHub cheat sheet]._
 
 1. If you want to keep track of your progress change the `[ ]` to `[x]` in your
    `README.md` file to check off the checkboxes:
@@ -121,6 +121,7 @@ skills on topics covered in previous years of ScriptEd years.
 
 
 [try.github.io]: https://try.github.io
+[GitHub cheat sheet]: https://education.github.com/git-cheat-sheet-education.pdf
 [sans serif font]: https://en.wikipedia.org/wiki/sans-serif
 [serif font]: https://en.wikipedia.org/wiki/serif
 [taupe]: https://en.wikipedia.org/wiki/taupe
