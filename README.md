@@ -101,6 +101,17 @@ skills on topics covered in previous years of ScriptEd years.
 - [ ] `7pt` A few seconds after having been clicked remove the last names from
   the `<li>` to reset to only the first name.
 
+#### APIs and AJAX
+
+- [ ] `1pt` Use [`$.ajax`] to call
+  `https://storage.googleapis.com/studio/hello.json` and `log` the response.
+- [ ] `2pt` Get `http://ip.jsontest.com/?callback=showMyIP` and show the
+  returned IP address on your page.
+- [ ] `5pt` Use the [public Giphy API key] to request an image and display
+  anywhere on your page.
+- [ ] `11pt` Add a map to the bottom of your page that shows the user's current
+  location using the [Google Maps API].
+
 ### GitHub
 
 - [ ] `1pt` When finished with all the above challenges, commit and push all of
@@ -116,3 +127,6 @@ skills on topics covered in previous years of ScriptEd years.
 [pull request]: https://help.github.com/articles/creating-a-pull-request/
 [`console.log`]: https://developer.mozilla.org/en-US/docs/Web/API/Console/log
 [`alert`]: https://developer.mozilla.org/en-US/docs/Web/API/Window/alert
+[`$.ajax`]: http://api.jquery.com/jquery.ajax/
+[public Giphy API key]: https://giphy.api-docs.io/1.0/welcome
+[Google Maps API]: https://developers.google.com/maps/documentation/javascript/geolocation
